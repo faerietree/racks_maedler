@@ -1,5 +1,1 @@
-d := diameter
-h := height
-l := length
-w := width
-
+../worlddevelopment/definitions
